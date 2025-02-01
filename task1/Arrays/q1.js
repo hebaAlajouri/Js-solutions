@@ -1,0 +1,28 @@
+"use strict";
+ let myArray=["Coding", "Academy", "By", "Orange"] ;
+ /////////////////////////////////////////////
+ //let result=myArray.push("Jordan");
+ //console.log(myArray);
+ ////////////////////////////////////////////
+ //myArray.pop();
+ //myArray.pop();
+  //console.log(myArray);
+  ///////////////////////////////////////////
+//   myArray.unshift("To");
+//   myArray.unshift("Welcome");
+//    console.log(myArray);
+////////////////////////////////////////////
+// myArray.shift();
+//    console.log(myArray);
+///////////////////////////////////////////
+//console.log(myArray.toString().replace(/,/g, " ")); 
+///////////////////////////////////////////
+//console.log(myArray);
+///////////////////////////////////////////
+let newArr=[myArray[0],myArray[myArray.length-1]];
+console.log(newArr);
+
+
+
+ 
+ 
